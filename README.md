@@ -1,14 +1,18 @@
 Adidas-US-Interactive-Sales-Dashboard
+
 Project Purpose
+
 The purpose of this project is to create an interactive sales dashboard for Adidas to visualize and track various aspects of sales performance across the United States. This dashboard enables stakeholders to analyze sales trends, identify key revenue-generating regions, and assess the impact of different sales methods and retailers on overall performance. By providing a consolidated view of sales data, the dashboard serves as a strategic tool for data-driven decision-making and helps to optimize sales strategies across regions and products.
 
 Dataset
+
 The dataset used for this project includes detailed sales records from Adidas across different product categories, dates, and sales methods. The data encompasses variables such as:
 
 Retailer Information: Name and ID of the retailer (e.g., Foot Locker).
 Sales Details: Invoice date, region, state, city, product category, price per unit, units sold, total sales, operating profit, and operating margin.
 Sales Method: Channels through which products are sold, including in-store, online, and outlet sales.
 Approach
+
 The project follows a systematic approach to transform raw sales data into an interactive and visually engaging dashboard:
 
 Data Cleaning and Preparation: The dataset was pre-processed to handle any missing or inconsistent values and formatted for ease of analysis.
